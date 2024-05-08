@@ -2,8 +2,7 @@
 Developed a chatbot using Gemini AI with RAG (Retrieval-Augmented Generation) LLM (Large Language Model) to query specific non-sensitive user data and frequently asked questions, thereby enhancing users' self-service abilities and reducing the volume 
 of requests processed by the Customer Service team
 
-## Source code
-https://drive.google.com/file/d/1jFv597o5BL8R6Ew9ay3iMHEg1Wt8lZEE/view?usp=sharing
+## [Source code](https://drive.google.com/file/d/1jFv597o5BL8R6Ew9ay3iMHEg1Wt8lZEE/view?usp=sharing)
 
 **Technologies used:** Gemini API, React js, Python Flask
  
