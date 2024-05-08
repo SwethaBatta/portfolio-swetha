@@ -1,4 +1,8 @@
 # Built a prototype of a hands-free conversational AI chat bot to create an accessible application that can be operated with speech.
+
+## Source code
+https://drive.google.com/file/d/1G9fw8D643jLOWYwpimtEgJQMrgKhXuZM/view?usp=sharing
+
 **Technologies used**: Google Cloud Text-to-Speech API, React js, Python, RAG LLM
 
 Here is a demo of the hands-free chatbot
